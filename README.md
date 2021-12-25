@@ -42,7 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is an administration app, with multiple sections for the different entities needed to administrate the greenhouse's parcels:
+This is the embedded code, with multiple sections for the different entities needed to manipulate data from the greenhouse's parcels:
   - Get biometric data from sensors
   - Take images and videos of your greenhouses IRT
   - Adjust environment for the plants on each level
